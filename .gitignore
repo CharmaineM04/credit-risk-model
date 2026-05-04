@@ -1,4 +1,2 @@
-*.pyc
-__pycache__/
-.env
-.DS_Store
+credit-risk-project/
+credit-risk-project/
